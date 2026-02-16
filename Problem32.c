@@ -3,6 +3,8 @@
 #include <string.h>
 
 /**
+ * https://projecteuler.net/problem=32
+ * https://odz.sakura.ne.jp/projecteuler/?Problem+32
  * 文字列が "1" から "9" までの数字を各1回ずつ含んでいるか判定する
  */
 bool is_1_to_9_pandigital(const char *s) {
